@@ -1,0 +1,10 @@
+/Libraries/
+/arduino/
+/makefile
+/myButtonSwitcher/
+/myDHT/
+/myMQTT/
+/myTime/
+/myWifi/
+/sources.mk
+/subdir.mk
